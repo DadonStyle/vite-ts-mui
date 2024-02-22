@@ -1,5 +1,5 @@
-## this is not the original repo, credit goes to:
-## emre-cil/vite-mui-ts
+## this is not the original repo, credit goes to this repo:
+##  - emre-cil/vite-mui-ts -
 
 ## vite-mui-ts boilerplate
 
